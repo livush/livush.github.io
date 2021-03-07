@@ -6,7 +6,7 @@ padding:15px 0 0 0;
 margin:0;
 font:76% tahoma, verdana, sans-serif;
 background:#e0e0e0;
-color:#303030;
+color:#808080;
 }
 
 a {
@@ -18,7 +18,7 @@ border-bottom:1px dotted #505050;
 a:hover {
 color:#303030;
 text-decoration:none;
-border-bottom:1px solid #505050;
+border-bottom:1px solid #808080;
 }
 
 h1 {
@@ -65,12 +65,12 @@ margin:15px 0 0 0;
 }
 
 #logo h1 a {
-color:#505050;
+color:#000000;
 border:none;
 }
 
 #logo h1 a:hover {
-color:#303030;
+color:#000000;
 text-decoration:none;
 border:none;
 }
@@ -85,7 +85,7 @@ width:760px;
 
 #naglowek p {
 text-align:right;
-color:#808080;
+color:#000000;
 }
 
 .nag-tab {
@@ -93,8 +93,8 @@ padding:4px 5px 3px 5px;
 margin:0 0 0 4px;
 text-decoration:none;
 background:#f0f0f0 url(images/rog2.gif) top right no-repeat;
-color:#808080;
-border-bottom:1px solid #e0e0e0;
+color:#000000;
+border-bottom:1px solid #000000;
 }
 
 .nag-tab:hover {
@@ -110,7 +110,7 @@ margin:0 0 0 4px;
 color:#505050;
 text-decoration:none;
 background:#ffffff url(images/rog2.gif) top right no-repeat;
-border-bottom:1px solid #ffffff;
+border-bottom:1px solid #000000;
 }
 
 .nag-tab-aktywny:hover {
@@ -237,8 +237,8 @@ padding:0;
 .photo {
 padding:2px;
 margin:0 0 8px 0;
-background-color:#f0f0f0;
-border:1px solid #d8d8d8;
+background-color:#000000;
+border:1px solid #000000;
 }
 
 .right {
@@ -247,7 +247,7 @@ text-align:right;
 }
 
 .block {
-background:#f0f0f0;
+background:#000000;
 padding:10px;
 }
 
